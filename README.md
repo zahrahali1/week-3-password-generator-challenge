@@ -8,7 +8,7 @@ I have created this password generator which allows employees with access to sen
 It has features that include user-defined password length (8 to 128 characters). User can select which character types to include: lowercase, uppercase, numeric, and special characters.
 
 First it will ask how long do you want your password to be? (Between 8 and 128 characters) 
-<img width="667" alt="Screenshot 2024-02-06 at 15 59 58" src="https://github.com/zahrahali1/week-3-password-generator-challenge/assets/103753424/55c186a0-4b28-45e2-9b33-b42e7d8b178b">
+![image](https://github.com/zahrahali1/week-3-password-generator-challenge/assets/103753424/bf16fbcc-eee2-4027-acc1-9c0be0ee3df9)
 Then it will ask to include lowercase letters in your password
 <img width="667" alt="Screenshot 2024-02-06 at 16 00 32" src="https://github.com/zahrahali1/week-3-password-generator-challenge/assets/103753424/171809da-5742-49f9-8d2d-db18cf6c0a7d">
 Then it will ask to include uppercase letters in your password
