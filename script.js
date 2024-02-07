@@ -40,7 +40,7 @@ function generatePassword() {
   }
   
   if (numbersPref) {
-    passwordCharacters += numbers;
+    passwordCharacters +=  numbers;
   }
   
   if (specialPref) {
