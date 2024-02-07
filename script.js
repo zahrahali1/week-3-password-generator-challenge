@@ -20,11 +20,11 @@ function generatePassword() {
   }
 
   var lowercasePref = confirm("Include lowercase letters in your password?");
-  var UppercasePref = confirm("Include uppercase letters in your password?");
-  var NumbersPref = confirm("Include numbers in your password?");
-  var SpecialPref = confirm("Include special characters in your password?");
+  var uppercasePref = confirm("Include uppercase letters in your password?");
+  var numbersPref = confirm("Include numbers in your password?");
+  var specialPref = confirm("Include special characters in your password?");
   
-  if (!lowercasePref && !UppercasePref && !NumbersPref && !SpecialPref) {
+  if (!lowercasePref && !uppercasePref && !numbersPref && !specialPref) {
     alert("You must select at least one character type for your password.");
     return;
   }
@@ -35,15 +35,15 @@ function generatePassword() {
     passwordCharacters += lowercase;
   }
   
-  if (UppercasePref) {
+  if (uppercasePref) {
     passwordCharacters += uppercase;
   }
   
-  if (NumbersPref) {
+  if (numbersPref) {
     passwordCharacters += numbers;
   }
   
-  if (SpecialPref) {
+  if (specialPref) {
     passwordCharacters += special;
   }
 
