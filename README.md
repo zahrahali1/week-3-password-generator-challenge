@@ -17,5 +17,5 @@ Then to include numbers to your password
 <img width="667" alt="Screenshot 2024-02-06 at 16 02 51" src="https://github.com/zahrahali1/week-3-password-generator-challenge/assets/103753424/4d8c5920-237e-418e-bc34-e5e531a4a85d">
 Then to include special characters in your password
 <img width="667" alt="Screenshot 2024-02-06 at 16 03 14" src="https://github.com/zahrahali1/week-3-password-generator-challenge/assets/103753424/33792250-41a2-4db9-ae64-b967b6ba988f">
-Then the calculator will generate a passowrd for you. 
+Then the password generator will generate a password for you. 
 
